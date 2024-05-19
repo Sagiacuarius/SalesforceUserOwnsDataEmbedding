@@ -1,5 +1,5 @@
 ﻿
-let clientId = "673d0dad-f246-404a-b062-8ad84804219";
+let clientId = "673d0dad-f246-404a-b062-8ad84804219b";
 let tenant = "8e2d4fdc-0c7a-4378-8cbc-2305cdbfb22a";
 let authority = "https://login.microsoftonline.com/" + tenant;
 
